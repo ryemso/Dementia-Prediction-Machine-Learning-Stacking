@@ -49,8 +49,8 @@ False Negative의 비용을 고려해 Accuracy보다 **Recall을 우선 지표**
 ## Run
 
 ```bash
-git clone https://github.com/ryemso/Dementia-Prediction-Machine-Learning-Stacking.git
-cd Dementia-Prediction-Machine-Learning-Stacking
+git clone https://github.com/ryemso/cognitive-impairment-prediction.git
+cd cognitive-impairment-prediction
 pip install -r requirements.txt
 ```
 
